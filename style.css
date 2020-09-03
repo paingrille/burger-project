@@ -1,7 +1,7 @@
 #phrase {
     display: flex;
-    justify-content: ;
-    align-items: ;
+    justify-content: center;
+    align-items: center;
 }
 
 body {
@@ -9,4 +9,5 @@ body {
     justify-content: center;
     align-content: center;
     height: 100vh;
+    background-color: aqua;
 }
