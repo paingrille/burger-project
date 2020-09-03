@@ -1,0 +1,12 @@
+#phrase {
+    display: flex;
+    justify-content: ;
+    align-items: ;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+}
